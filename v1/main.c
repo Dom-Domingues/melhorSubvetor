@@ -12,7 +12,9 @@ int main()
     //int vetorInicial[8] = {1, -5, 4, 3, -2, 3, 20, -10};
     //int vetorInicial[8] = {20, -30, 15, -10, 30, -20, -30, 30};
     //int vetorInicial[5] = {4, 4, -1, 4, 4};
-    int vetorInicial[9] = {1, -5, 4, 3, -2, 3, 20, -10, 100};
+    //int vetorInicial[9] = {1, -5, 4, 3, -2, 3, 20, -10, 100};
+    int vetorInicial[4] = {-1, -2, 20, 45, -10};
+
 
 
 
